@@ -9,5 +9,7 @@ Copy `snippets-basisjs.json` to Emmet's extensions folder (`~/emmet` by default)
 
 Make sure that you have xhtml mode for html enabled. You can use provided `profiles.json` (needs to be in the extensions folder too).
 
+Restart the editor.
+
 ## Documentation
 The file itself is pretty much self-documented. You can find more info [here](http://docs.emmet.io/customization/snippets/).
