@@ -1,4 +1,4 @@
-# Template snippets for [basis.js](http://)
+# Template snippets for [basis.js](https://github.com/basisjs/basisjs)
 
 ## Prerequisites
 - Any text editor with Emmet support (e. g. Atom, Sublime Text, etc)
