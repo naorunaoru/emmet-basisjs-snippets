@@ -22,7 +22,8 @@
     "snippets": {
       "ln|ln:": "{l10n:${1}}",
       "bsh": "b:show=\"${1}\"",
-      "bhd": "b:hide=\"${2}\""
+      "bhd": "b:hide=\"${2}\"",
+      "ev|evt": "event-${1:click}=\"${2}\""
     }
   }
 }
