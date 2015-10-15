@@ -17,12 +17,12 @@
       "bra": "<b:remove-attr ref=\"${1}\" name=\"${2}\" />",
       "bc|bcl": "<b:class ref=\"${1}\" value=\"${2}\" />",
       "bsc": "<b:set-class ref=\"${1}\" value=\"${2}\" />",
-      "bi": "<b:isolate />",
-      "bsh": "b:show=\"${1}\"",
-      "bhd": "b:hide=\"${2}\""
+      "bi": "<b:isolate />"
     },
     "snippets": {
-      "ln|ln:": "{l10n:${1}}"
+      "ln|ln:": "{l10n:${1}}",
+      "bsh": "b:show=\"${1}\"",
+      "bhd": "b:hide=\"${2}\""
     }
   }
 }
